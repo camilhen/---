@@ -1,0 +1,55 @@
+header{
+height: 400px;
+background-color: rgba(135, 206, 250, 0.822);
+text-align: center;
+color: rgb(29, 157, 231);
+padding: 190px;
+text-shadow: 1px 2px 20px #69f5ff;
+font-size: 40px;
+background-image: url(https://kartinki.pics/pics/uploads/posts/2022-08/thumbs/1659419594_26-kartinkin-net-p-akvapark-art-oboi-30.jpg);
+background-size: cover;
+    font-family: "Ruslan Display", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+body{
+    margin: 0px;
+}
+
+main{
+    height: 100%;
+    background-color: rgba(63, 187, 196, 0.61);
+text-align: left;
+color: rgb(199, 235, 240);
+padding: 200px;
+font-size: 30px;
+background-image: url(https://kartinki.pics/uploads/posts/2021-07/thumbs/1625199853_54-kartinkin-com-p-bassein-fon-krasivie-foni-55.jpg);
+background-size: cover;
+}
+.container{
+    margin-top: 20px;
+    display: flex;
+}
+.container p{
+
+}
+footer{
+    background-color: rgb(3, 93, 211);
+    padding: 70px;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(126, 193, 255);
+}
+.social img{
+    width: 50px;
+    padding-left: 10px;
+}
+
+.social{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
